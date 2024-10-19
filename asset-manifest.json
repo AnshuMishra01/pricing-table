@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pricing-table/static/css/main.53088257.css",
+    "main.js": "/pricing-table/static/js/main.68ba8dfc.js",
+    "static/js/453.d700df49.chunk.js": "/pricing-table/static/js/453.d700df49.chunk.js",
+    "index.html": "/pricing-table/index.html",
+    "main.53088257.css.map": "/pricing-table/static/css/main.53088257.css.map",
+    "main.68ba8dfc.js.map": "/pricing-table/static/js/main.68ba8dfc.js.map",
+    "453.d700df49.chunk.js.map": "/pricing-table/static/js/453.d700df49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53088257.css",
+    "static/js/main.68ba8dfc.js"
+  ]
+}
